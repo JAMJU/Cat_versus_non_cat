@@ -1,0 +1,6 @@
+login,[],None,None,0:5.7,0;,[]
+text_page,[first_page,bindSubmitKeyIDList=,[space]],None,None,0:6.6,1;,[]
+text_page,[speed_warning,bindSubmitKeyIDList=,[space]],None,None,0:1.7,2;,[]
+text_page,[remote_experiment_notice,bindSubmitKeyIDList=,[space]],None,None,0:2.4,3;,[]
+consent,[demo_consent],None,None,0:3.4,4;,[]
+text_page,[presurvey_instructions,bindSubmitKeyIDList=,[space]],None,None,0:2.6,5;,[]

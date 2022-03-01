@@ -7,7 +7,7 @@
     with the same structure than the original dataset
 """
 
-from copy_structure import copy_structure
+from utils import copy_structure
 import librosa
 import os
 import numpy as np
@@ -44,7 +44,7 @@ def transform_and_save(filename_in, filename_out, features):
     if features == 'mfccs':
         spect = compute_mfccs(filename_in)
         np.save(filename_out, spect)
-    elif features == 'melfilterbanks':
+    if features == 'melfilterbanks':
         spect = compute_melfilterbanks(filename_in)
         np.save(filename_out, spect)
     else:
@@ -53,28 +53,26 @@ def transform_and_save(filename_in, filename_out, features):
 
 
 def transform_all(folder_in, folder_out, features):
-    # we copy the structure
-    copy_structure(input_path=folder_in, output_path=folder_out)
 
-    for root, dirs, files in os.walk(folder_in):
-        for name in files:
-            print(name)
-            a = os.path.join(root, name)
-
-            if not a.endswith('.wav'):
-                continue
-            path = ''.join(a.split(folder_in))
-            path_output = os.path.join(folder_out, path).replace('.wav', '.npy')
-            if not os.path.isfile(path_output):
-                transform_and_save(a, path_output, features)
+    for name in os.listdir(folder_in):
+        #print(name)
+        a = os.path.join(folder_in, name)
+        if not a.endswith('.wav'):
+            continue
+        path_output = os.path.join(folder_out, name).replace('.wav', '.npy')
+        transform_and_save(a, path_output, features)
 
 if __name__ == '__main__':
-    transform_all(folder_in='/gpfswork/rech/tub/uzz69cv/wav_to_transform/perceptimatic/',
-                  folder_out='/gpfsscratch/rech/tub/uzz69cv/transfo_perceptimatic/mfccs/',
-                  features = 'mfccs')
+    import argparse
 
+    parser = argparse.ArgumentParser(
+        description='script to compute mfccs')
+    parser.add_argument('folder_wavs', metavar='f_do', type=str,
+                        help='folder where the wav files to transform are')
+    parser.add_argument('folder_out', metavar='f_do', type=str,
+                        help='folder where to put representations')
+    parser.add_argument('features', metavar='f_do', type=str,
+                        help='features wanted mfccs or melfilterbanks')
+    args = parser.parse_args()
 
-
-
-
-
+    transform_all(folder_in=args.folder_wavs, folder_out=args.folder_out, features=args.features)

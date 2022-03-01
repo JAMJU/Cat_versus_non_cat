@@ -1,0 +1,909 @@
+
+=============
+polluted
+=============
+
+polluted
+
+=============
+cold
+=============
+
+cold
+
+=============
+not_drinkable
+=============
+
+not drinkable
+
+------------------------------
+lmeds_interface
+------------------------------
+
+====================
+loading_progress
+====================
+
+Chargement... Patientez s'il vous plaît...
+
+====================
+metadata_description
+====================
+
+A demonstration of the kinds of pages that can be presented to subjects via LMEDS.
+
+====================
+progress
+====================
+
+Avancement
+
+------------------------------
+text_page
+------------------------------
+====================
+text_no_more
+====================
+
+Nous avons assez de participants, merci pour votre temps!
+
+====================
+first_page
+====================
+Bienvenue,<br /><br />
+Vous avez choisi de participer à notre étude.
+<b>Pour être payé, vous devez rester attentif tout le long de l'étude. Merci de prêter attention à tous les stimuli que vous entendrez.</b>
+Pour chaque tâche que nous allons vous demander de réaliser,
+ vous aurez des instructions que nous vous demandons 
+de suivre attentivement. Vous aurez à répondre
+à un questionnaire pré-expérience sur votre exposition à certaines langues, et un questionnaire post expérience sur votre prononciation de certains mots en français.<br /><br />
+L'étude devrait durer un peu plus qu'une trentaine de minutes.<br /><br />
+Merci pour votre temps.
+ (presser [espace] pour continuer)
+
+====================
+keyboard_shortcuts
+====================
+
+On the next page there is a boundary and prominence page followed by 
+a media choice page, as you have seen before. However,
+these pages have been configured to allow interaction via a keyboard.
+Specific instructions will be given for each page.
+
+====================
+post_survey_instructions
+====================
+
+Vous allez maintenant répondre à un questionnaire post expérience. Merci de répondre à toutes les questions.
+ (presser [espace] pour continuer)
+
+====================
+presurvey_instructions
+====================
+
+Vous allez maintenant répondre à un questionnaire pré-expérience.
+ (presser [espace] pour continuer)
+
+====================
+test_audioset
+====================
+
+Avez vous mis vos écouteurs ou votre casque ? Vous devriez si ce n'est pas le cas, car sans cela vous risquez de ne pas entendre correctement les fichiers audio...<br /><br />
+<b>Pour être payé, vous devez rester attentif tout le long de l'étude. Merci de prêter attention à tous les stimuli que vous entendrez.</b>
+ (presser [espace] pour continuer)
+
+
+====================
+hibou
+====================
+
+hibou
+
+====================
+caillou
+====================
+
+caillou
+
+====================
+attention
+====================
+Quel mot entendez vous ?
+
+====================
+break_vowels
+====================
+<b> Nous vous conseillons de faire une pause. </b>
+  <br /><br />
+Quand vous vous voudrez reprendre, réécouter tous les exemples de mots de référence pour
+les sons de voyelles qui nous intéressent. Vous pouvez réécouter chaque mots plusieurs fois, prenez bien le temps de faire la différence entre chaque voyelle.
+ Quand vous avez terminé, cliquez sur le bouton "Ecoute finie". Nous vous demanderons de refaire ce même type d'écoute plusieurs fois lors de cette expérience.
+
+
+====================
+break_vowels_end
+====================
+<b> Nous vous conseillons de faire une pause. </b>
+  <br /><br />
+Quand vous vous voudrez reprendre, réécouter tous les exemples de mots de référence pour
+les sons de voyelles qui nous intéressent. Vous pouvez réécouter chaque mots plusieurs fois, prenez bien le temps de faire la différence entre chaque voyelle.
+ Quand vous avez terminé, cliquez sur le bouton "Ecoute finie". Ceci est la dernière fois que nous vous demandons de réaliser ce genre d'écoute.
+
+
+====================
+done
+====================
+Ecoute finie.
+
+====================
+training
+====================
+
+La tâche que nous allons vous demander de réaliser suppose que vous connaissez bien les sons des voyelles françaises.
+Nous allons d'abord vous faire écouter des mots de référence qui les contiennent. Suivez les instructions.
+ (presser [espace] pour continuer)
+
+====================
+training_vowels
+====================
+
+Voilà la liste des sons de voyelle dont nous avons besoin dans cette expérience.
+Chaque son de voyelle (en gras dans les mots suivants) est associé à un ou plusieurs mots de références.
+ Cliquez sur les boutons pour pouvoir écouter les sons de références.
+ S'il vous plait, prenez bien le temps de faire la différence entre chacune des voyelles.
+ Vous pouvez réécouter chacun des mots plusieurs fois. Une fois que vous avez tout écouté, cliquez sur le bouton "Ecoute finie".
+ Nous vous demanderons de réécouter ces mots à d'autres moments de l'expérience.
+
+====================
+training_exp_inst
+====================
+
+Lors de cette expérience nous allons vous demander d'écouter des syllabes composés de trois sons comme 'pap'. <br /><br />
+Pour chaque syllabe, nous allons d'abord vous demander à quelle voyelle française la voyelle centrale de chaque syllabe
+('a' dans notre exemple) vous fait penser.
+Dans notre exemple, le 'a' de 'pap' va sans doute vous faire penser au 'a' de p<b>a</b>p<b>a</b>, et c'est donc cette réponse que vous devrez donner. <br /><br />
+
+Sur une deuxième page, vous devrez ensuite dire à quel point cette voyelle entendue est un bon exemple de la voyelle française que vous y avez associée. <br /><br />
+
+Nous allons vous donner quelques exemples, puis vous pourrez commencer l'expérience.  (presser [espace] pour continuer)
+
+
+====================
+alerte
+====================
+
+La prononciation du français varie selon la région et l'âge. Il peut y avoir certaines options qui ne correspondraient
+jamais à des prononciations courantes dans votre prononciation du français.
+Il peut également y avoir des sons de voyelle qui sont courants dans votre prononciation qui n'apparaissent pas sur la liste.
+Choisissez l'option qui vous semble la plus raisonnable.
+
+
+====================
+training_exp_pap
+====================
+
+Vous venez d'entendre 'pap' avec le <b>a</b> de p<b>a</b>p<b>a</b>. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir p<b>a</b>p<b>a</b>, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_tep
+====================
+
+Vous venez d'entendre 'tép' avec le <b>é</b> de journ<b>é</b>e. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir journ<b>é</b>e, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_tEp
+====================
+
+Vous venez d'entendre 'tèp' avec le <b>è</b> qui a la même sonorité que le <b>e</b> dans cach<b>e</b>tte. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir cach<b>e</b>tte, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_bop
+====================
+
+Vous venez d'entendre 'baup' avec <b>au</b> qui a la même sonorité que dans rid<b>eau</b>. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir rid<b>eau</b>, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_bOp
+====================
+
+Vous venez d'entendre 'bop' avec le même <b>o</b> que dans s<b>o</b>rt ou p<b>o</b>rte. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir s<b>o</b>rt ou p<b>o</b>rte, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_cheup
+====================
+
+Vous venez d'entendre 'cheup' avec le même <b>eu</b> que dans v<b>eu</b>ve ou s<b>oeu</b>r. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir v<b>eu</b>ve ou s<b>oeu</b>r, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_chEUp
+====================
+
+Vous venez d'entendre 'cheup' avec le même <b>eu</b> que dans m<b>eu</b>nier ou qu<b>eu</b>e. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir  m<b>eu</b>nier ou qu<b>eu</b>e, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_tit
+====================
+
+Vous venez d'entendre 'tit' avec le <b>i</b> de t<b>i</b>que. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir t<b>i</b>que, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_tup
+====================
+
+Vous venez d'entendre 'tup' avec le <b>u</b> de t<b>u</b>t<b>u</b>. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir t<b>u</b>t<b>u</b>, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_kouf
+====================
+
+Vous venez d'entendre 'kouf' avec le <b>ou</b> de t<b>ou</b>j<b>ou</b>rs. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir t<b>ou</b>j<b>ou</b>rs, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_kinf
+====================
+
+Vous venez d'entendre 'kinf' avec le <b>in</b> de <b>im</b>pair. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir  <b>im</b>pair, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_konp
+====================
+
+Vous venez d'entendre 'komp' avec le <b>on</b> de pard<b>on</b>. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir pard<b>on</b>, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_panf
+====================
+
+Vous venez d'entendre 'panf' avec le <b>an</b> de méch<b>an</b>t. Contrairement aux syllabes du reste de l'expérience, celle ci a été dite par un locuteur français. Vous auriez donc du choisir méch<b>an</b>t, et ensuite dire que la voyelle était plutot représentative ou très représentative.  (presser [espace] pour continuer)
+
+====================
+training_exp_ext
+====================
+
+Vous venez d'entendre une syllabe avec une voyelle centrale qui n'est pas française, vous pouviez donc répondre en suivant votre instinct, en choisissant la voyelle la plus proche. Vous pouviez ensuite dire à quelle point ce son était représentatif de la voyelle choisie.  (presser [espace] pour continuer)
+
+
+====================
+before_exp
+====================
+
+Vous allez maintenant commencer l'expérience. <br /><br />
+Vous allez réaliser la même tâche que durant l'entrainement.
+Les stimuli que vous allez entendre sont extraits de paroles continues, et donc certaines syllabes ne seront pas parfaitement découpés. Vous entendrez peut être 'ipap', 'papu', 'ap' ou 'pa' au lieu de 'pap' par exemple. Essayez de toujours vous concentrer sur la voyelle centrale ('a' dans notre exemple).
+ <br /><br />
+Il y aura plusieurs pauses et plusieurs pages d'interruption pour vérifier que nous avons toujours toute votre attention. Nous allons vous rappeler les mots de références avant de commencer  (presser [espace] pour continuer)
+
+
+====================
+before_exp_vow
+====================
+
+Avant de commencer voilà un rappel des mots de référence. Ecoutez chaque mot attentivement et cliquer sur 'Ecoute finie'. Prenez votre temps pour réécouter chaque mot, et comparer les voyelles.<br /><br />
+
+====================
+remote_experiment_notice
+====================
+
+Avant de commencer cette expérience, veuillez noter les points suivants:
+<br /><br />
+
+<b>1)</b> S'il vous plait <b>lisez toutes les instructions</b> qui apparaissent tout au long de cette expérience, n'en sautez pas.<br /><br />
+
+<b>2)</b> S'il vous plait <b>utilisez des écouteurs ou un casque audio</b>.
+<br /><br />
+
+<b>3)</b> <b>Vous devriez être dans un endroit calme</b>, loin de toute forme de distraction pour réaliser cette expérience.  S'il y a d'importants bruits de fond, comme dans un café ou un lieu public, vous risquez d'avoir des difficulés à entendre les extraits audio et à vous concentrer sur la tâche.
+<br /><br />
+
+<b>4)</b> S'il vous plait <b>mettez votre téléphone en mode silencieux ou éteignez le</b>, de même pour autre appareils électroniques potentiellement dérangeants.
+<br /><br />
+
+<b>5)</b> S'il vous plait <b>fermez toutes vos fenêtres et onglets de navigateur</b>-- tout particulièrement ceux ou celles qui risquent de produire des bruits d'alerte lors de l'expérience (e-mail, notification).
+<br /><br />
+
+<b>6)</b> A moins que les instructions vous amènent à le faire, s'il vous plait <b> ne réalisez pas d'autres tâches en même temps que cette expérience </b>.
+<br /><br />
+
+<br />
+
+En cliquant sur 'continuer' vous reconnaissez que vous accepter de suivre ces instructions autant qu'il vous est possible.
+ (presser [espace] pour continuer)
+
+====================
+same_different_instructions
+====================
+
+Sur la prochaine page, vous entendrez trois fichiers audio séparés par un bref silence. Vous devrez répondre à une question sur leur similarité.
+ (presser [espace] pour continuer)
+
+====================
+sliders_in_surveys
+====================
+
+Sliders can also be used in surveys.
+
+====================
+speed_warning
+====================
+
+Votre navigateur doit être à jour et votre accès à internet doit être fluide pour pouvoir réaliser cette tâche qui implique d'écouter de lourds fichiers audio.
+Si vous avez un vieil ordinateur ou une connection internet trop lente, merci de quitter cette expérience.
+ (presser [espace] pour continuer)
+
+====================
+break_text
+====================
+
+Nous vous encourageons à prendre une pause de 5/10 min afin de rester concentré-e pour le reste de l'étude. Vous pouvez appuyer sur 'Continuer' quand vous serez prêt-e.
+ (presser [espace] pour continuer)
+
+====================
+video_ok
+====================
+
+LMEDS can also play use video.  Any pages shown with audio files can have the audio replaced with video, as demonstrated next.
+
+====================
+feedbacks
+====================
+
+L'expérience à laquelle vous venez de participer a pour but de
+comprendre la perception de la parole, et l'apprentissage d'une
+première langue chez l'être humain. Il est bien établi que les
+langues se diffèrent l'une de l'autre dans les inventaires de sons
+(consonnes et voyelles) qu'elles utilisent dans des mots. Par exemple,
+en français, le son ​ou ​et le son ​u sont deux sons distincts, qui
+peuvent être employé pour construire des mots distincts (​f​ou ​versus
+​fû​t​ ​). Dans plusieurs autres langues, ceci n'est pas le cas. En
+anglais, par exemple, il y a un son ​ou (écrit ​oo ou ​u​), mais il n'y
+a pas de son distinct ​u (donc, même si le nom de ​Alan Tu​ring ​se
+prononce en français comme ​t​u​-ring, ​en anglais, il se prononce ​to​
+u-​ ring o​ u ​ti​ou​-ring selon la variété d'anglais). Il est
+également bien connu que les êtres humains perçoivent beaucoup mieux
+les différences entre des sons linguistiques quand ces différences
+sont exploitées dans la langue ou les langues à laquelle/lesquelles
+ils ont eu une exposition précoce pendant l'enfance, et qu'ils ont des difficultés à entendre la différence entre des sons qui ne sont pas
+utilisés dans leur(s) langue(s). <br /><br />
+
+C'est une des raisons majeures pour
+lesquelles les personnes apprenant une seconde langue plus tardivement ont
+tendance à avoir des « accents étrangers » quand ils parlent.
+Cette étude a pour but de comprendre les mécanismes neuro-cognitifs
+par lesquels les être humains perçoivent et apprennent les sons de
+leurs langues. En agrégeant les résultats de plusieurs participants
+dans des expériences artificielles qui simulent un aspect de la
+perception ou l'apprentissage des sons, et, en particulier, en étudiant
+quels sons, ou quelles tâches d'apprentissage, sont plus difficiles,
+nous sommes capables de tester des hypothèses sur ces mécanismes
+cognitifs sous-jacents, qui font des prédictions spécifiques. En
+comprenant ces mécanismes, nous espérons aussi mieux comprendre
+pourquoi les langues humaines ont toutes certaines choses en commun.<br /><br />
+
+
+Si vous avez des questions ou des commentaires par rapport à cette
+étude, son contexte scientifique, ou si vous aimeriez avoir plus
+d'information sur les résultats après l'étude, veuillez nous
+contacter à l'adresse courriel fourni.
+
+ (presser [espace] pour continuer)
+
+
+------------------------------
+media_test
+------------------------------
+
+====================
+error_verify_media
+====================
+
+Vous devez choisir une des réponses avant de continuer.
+
+====================
+mediaTest_affirm
+====================
+
+J'entend le fichier audio.
+
+====================
+mediaTest_reject
+====================
+
+Je n'entend pas le fichier audio
+
+====================
+mediaTest_text
+====================
+
+S'il vous plait écoutez ce fichier audio et indiquez si vous parvenez à l'entendre ou non.
+<br /><br />
+
+Vous pouvez utiliser ce moment pour ajuster votre volume audio.
+
+------------------------------
+consent
+------------------------------
+
+====================
+consent
+====================
+Je consens
+
+====================
+consent_query
+====================
+
+Consentez vous à participer à cette étude?
+
+====================
+consent_title
+====================
+
+Formulaire de consentement
+
+====================
+demo_consent
+====================
+
+<b>Responsable de l'étude:</b>  Ewan DUNBAR et Juliette MILLET (Université de Paris) <br /><br />
+
+<b>Nom du protocole:</b> Perception et apprentissage de la parole dans la typologie géométrique des inventaires phonologiques<br /><br />
+
+<b>Ce qu'il est attendu de vous:</b>  Si vous acceptez de participer, vous aurez à réaliser plusieurs tâches qui impliquent l'écoute de fichier audio et le fait de répondre à des questions. <br /><br />
+
+<b>Votre droit de rétractation</b> Il vous est possible de retirer votre consentement à participer à cette étude à tout moment. <br /><br />
+
+<b>Possible risques:</b>  Aucun risque à notre connaissance <br /><br />
+
+<b>Utilisation des données:</b> Nous allons anonymiser vos résultats à ce test, et nous ne les utiliserons que dans le cadre de recherche publique. <br /><br />
+
+<b>Questions</b>  Contactez juliette.millet@cri-paris.org si vous avez des questions sur cette expérience. <br /><br />
+
+<b>Consentement:</b> En signant numériquement ce formulaire, vous certifiez que vous avez plus de 18 ans, que vous avez lu le texte ci dessus et que vous le comprenez, que vous avez été prévenu de votre droit de rétractation et d'arrêt de participation à cette étude à tout moment, sans préjudice. <br /><br />
+
+Vous pouvez imprimer une copie de ce formulaire si vous le désirez. <br /><br />
+
+J'ai lu et compris le précédent formulaire de consentement, je certifie que j'ai plus de 18 ans et, et en cliquant sur le bouton 'continuer' j'indique ma volonté de participer à cette étude.<br /><br />
+
+
+====================
+dissent
+====================
+
+Je ne consens pas
+
+====================
+error_consent_or_dissent
+====================
+
+Pour continuer, vous devez choisir de consentir ou de ne pas consentir.
+
+------------------------------
+media_list
+------------------------------
+
+====================
+memory_a
+====================
+
+A
+
+====================
+memory_b
+====================
+
+B
+
+====================
+memory_instruct
+====================
+
+Blaah
+
+------------------------------
+media_choice
+------------------------------
+
+====================
+same_different_instr
+====================
+
+Est ce que le dernier son est plus proche du 1er ou du 2ème son ? (Presser [espace] pour écouter le son)
+
+====================
+same_different_training
+====================
+
+Est ce que le dernier son est plus proche du 1er ou du 2ème son ? (Presser [espace] pour écouter le son ou cliquer sur "Ecouter"),</ br> </ br>
+
+====================
+assimilation_instr
+====================
+
+De quelle voyelle française la voyelle centrale de cette syllabe est elle la plus proche ? (Presser [espace] pour écouter le son ou cliquer sur "Ecouter", Vous pouvez réécouter le son jusqu'à 10 fois)
+
+====================
+rating_instr
+====================
+
+A quel point la voyelle centrale de cette syllabe était elle un bon exemple de la voyelle française que vous avez choisie ? (Presser [espace] pour écouter le son ou cliquer sur "Ecouter", vous pouvez réécouter le son jusqu'à 10 fois si vous le désirez)
+
+====================
+R_bad
+====================
+
+Très mauvais exemple
+
+====================
+bad
+====================
+
+Mauvais exemple
+
+====================
+medium
+====================
+
+Exemple moyen
+
+====================
+good
+====================
+
+Bon exemple
+
+====================
+R_good
+====================
+
+Très bon exemple
+
+
+=============
+i
+=============
+
+t<b>i</b>que
+
+=============
+y
+=============
+
+t<b>u</b>t<b>u</b>
+
+=============
+u
+=============
+
+t<b>ou</b>j<b>ou</b>rs
+
+=============
+e
+=============
+
+journ<b>é</b>e
+
+=============
+ɛ
+=============
+
+cach<b>e</b>tte
+
+=============
+ø
+=============
+
+m<b>eu</b>nier, qu<b>eu</b>e
+
+=============
+œ
+=============
+
+v<b>eu</b>ve, s<b>oeu</b>r
+
+=============
+a
+=============
+
+p<b>a</b>p<b>a</b>
+
+=============
+o
+=============
+
+rid<b>eau</b>
+
+=============
+ɔ
+=============
+
+p<b>o</b>rte,s<b>o</b>rt
+
+=============
+ɛ̃
+=============
+
+<b>im</b>pair
+
+=============
+œ̃
+=============
+
+parf<b>um</b>
+
+=============
+ɔ̃
+=============
+
+pard<b>on</b>
+
+=============
+ɑ̃
+=============
+
+méch<b>an</b>t
+
+------------------------------
+fill_in_the_blank
+------------------------------
+
+------------------------------
+boundary_and_prominence
+------------------------------
+
+====================
+keyboard_shortcuts_boundary
+====================
+
+<font color="red">Boundary task.</font>  Press [p] to play the audio file and [enter] to continue
+
+====================
+keyboard_shortcuts_prominence
+====================
+
+<font color="blue">Prominence task.</font>  Press [p] to play the audio file and [enter] to continue
+
+====================
+mark_one_boundary
+====================
+
+Mark exactly one boundary.
+
+====================
+mark_one_prominence
+====================
+
+Mark exactly one prominence.
+
+====================
+pbMinMaxSelectedErrorMsg
+====================
+
+Error.  You must select at least %d word(s) but not more than %d word(s).
+
+====================
+true
+====================
+
+
+
+------------------------------
+boundary
+------------------------------
+
+====================
+boundary_at_most_one
+====================
+
+Mark at most one boundary.
+
+------------------------------
+prominence
+------------------------------
+
+====================
+prominence_at_least_two
+====================
+
+Mark at least two prominences.
+
+------------------------------
+syllable_marking
+------------------------------
+
+====================
+nonspecific_syllables
+====================
+
+Please mark the most prominent syllable in each word.
+
+------------------------------
+media_slider
+------------------------------
+
+====================
+prominence_scale_instr
+====================
+
+Slide the scale to indicate the degree of prominence you hear for the word in bold text.
+
+------------------------------
+end
+------------------------------
+
+====================
+test_complete
+====================
+
+Vous avez fini cette étude. Merci de votre participation!
+<br /><br />
+Si vous venez de Amazon Mechanical Turk, le code à rentrer pour valider votre participation est:<br /><br />
+<b>ASSIM2020</b><br /><br />
+Nous vous souhaitons une bonne journée!
+
+------------------------------
+login_bad_user_name
+------------------------------
+
+====================
+error_user_name_exists
+====================
+
+<font color="red"> ERROR: ce nom d'utilisateur '%s' existe déjà ou est invalide.  Vous avez peut être déjà fait cette expérience et dans ce cas, vous ne pouvez pas participer une seconde fois. Si vous avez été forcé de recommencer, utilisez un nom similaire (par exemple en ajoutant un 1 à la fin)</font>
+
+------------------------------
+media_test_end
+------------------------------
+
+====================
+mediaTest_no_audio
+====================
+
+Vous avez indiqué ne pas être capable d'entendre ce fichier audio. Vous n'êtes donc pas capable de participer à cette expérience. Merci et bonne journée!
+------------------------------
+consent_end
+------------------------------
+
+====================
+consent_opt_out
+====================
+
+Vous avez choisi de ne pas participer à cette étude. Merci et bonne journée! 
+<br /><br />
+
+------------------------------
+boundary_and_prominence,boundary,prominence
+------------------------------
+
+====================
+nonspecific_boundary_instr
+====================
+
+Mark a boundary between words <font color="red">that belong to different chunks</font>.
+
+------------------------------
+lmeds_interface,login,login_bad_user_name
+------------------------------
+
+====================
+back_button_warning
+====================
+
+<font color="red"></font>
+
+------------------------------
+login,text_page,consent,login_bad_user_name
+------------------------------
+
+====================
+title
+====================
+
+Test de perception
+
+------------------------------
+media_choice,media_slider
+------------------------------
+
+====================
+nonprominent
+====================
+
+Nonprominent
+
+====================
+prominent
+====================
+
+Prominent
+
+------------------------------
+boundary_and_prominence,prominence,boundary
+------------------------------
+
+====================
+nonspecific_prominence_instr
+====================
+
+Mark the words that the speaker <font color="blue">highlighted for the listener, to make them stand out</font>.
+
+------------------------------
+prominence,boundary_and_prominence
+------------------------------
+
+====================
+pbMinSelectedErrorMsg
+====================
+
+Error.  You must select at least %d word(s).
+
+------------------------------
+login,login_bad_user_name
+------------------------------
+
+====================
+error_blank_name
+====================
+
+Entrez votre identifiant MTurk s'il vous plait.  (e.g. k123l or john_doe_22)
+
+====================
+unsupported_warning
+====================
+
+
+
+====================
+user_name_text
+====================
+
+Entrez votre identifiant MTurk s'il vous plait.  (e.g. k123l or john_doe_22)
+
+====================
+error_user_name_exists
+====================
+
+<font color="red"> ERREUR: L'identifiant '%s' existe déjà.  Vous avez peut être déjà réalisé cette expérience, et dans ce cas là vous ne pouvez pas y reparticiper. Si vous avez été forcé-e de recommencer, merci de mettre '_1' derrière votre identifiant.</font>
+
+------------------------------
+media_test,media_list,media_choice,boundary_and_prominence,boundary,prominence,syllable_marking,media_slider
+------------------------------
+
+====================
+error_must_play_audio
+====================
+
+Vous devez écouter le fichier audio au moins %d fois.
+
+====================
+error_must_play_audio_at_least
+====================
+
+Vous devez écouter le fichier audio au moins %d fois.
+
+====================
+play_button
+====================
+
+Ecouter
+
+------------------------------
+lmeds_interface,boundary_and_prominence
+------------------------------
+
+====================
+continue_button
+====================
+
+Continuer
+
+------------------------------
+boundary,boundary_and_prominence
+------------------------------
+
+====================
+pbMaxSelectedErrorMsg
+====================
+
+Error. You must not select more than %d word(s).
+

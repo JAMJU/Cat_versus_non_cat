@@ -1,0 +1,746 @@
+
+=============
+polluted
+=============
+
+polluted
+
+=============
+cold
+=============
+
+cold
+
+=============
+not_drinkable
+=============
+
+not drinkable
+
+------------------------------
+lmeds_interface
+------------------------------
+
+====================
+loading_progress
+====================
+
+Loading.  Please wait.
+
+====================
+metadata_description
+====================
+
+A demonstration of the kinds of pages that can be presented to subjects via LMEDS.
+
+====================
+progress
+====================
+
+Progress
+
+------------------------------
+text_page
+------------------------------
+
+====================
+text_no_more
+====================
+
+We have enough participants for this study. Thank you for your time!
+
+
+====================
+training_text
+====================
+
+You will hear three sounds one after the other. You will have to decide which of the first two sounds is more similar to the last one (the third sound).<br /><br />
+ If you are sure that the first sound is closer to the last sound than the second is, you can click on 'first for sure' or press [f].<br /><br />
+If you think it is the second sound, you can click on 'second for sure' or press [c]. <br /><br />
+If you are unsure of your choice, you should use the other buttons ('first,
+almost sure', 'second, almost sure', 'second, unsure', etc) <br /><br />
+ (press [space] to continue)
+
+====================
+training_text_2
+====================
+
+On the next page, the sounds will
+be noisy, and thus difficult to hear. Do not hesitate to use the buttons
+'unsure' and 'almost sure'. Use your first instinct as to whether it is
+the first or the second.
+
+====================
+audio_list_instructions
+====================
+
+Now you are trained, and
+the study can begin. On the following pages you'll do new audio files,
+with opportunities to take short breaks. <b>Try not to overthink this task.
+Follow your instinct.</b> <br /><br />
+This experiment has been set up to enable you to answer questions with your keyboard. Please follow the instructions.
+ (press [space] to continue)
+
+====================
+first_page
+====================
+Welcome.
+You have chosen to participate in our study.
+<b> To be paid, you must do this study attentively and carefully. Please pay
+attention to the stimuli and respond appropriately.
+</b>
+For each task, you will be presented with some 
+instructions, please follow them carefully. 
+You will have to answer to a pre survey about your language experience, and a post survey about your English pronunciation.<br /><br />
+
+The whole study should last around 30min. <br /><br />
+Thank you for your time.<br /><br />
+ (press [space] to continue)
+====================
+keyboard_shortcuts
+====================
+
+On the next page there is a boundary and prominence page followed by 
+a media choice page, as you have seen before.  However,
+these pages have been configured to allow interaction via a keyboard.
+Specific instructions will be given for each page.
+ (press [space] to continue)
+
+====================
+post_survey_instructions
+====================
+
+On the next page you will fill in a post survey. Please answer all the questions.
+ (press [space] to continue)
+
+====================
+presurvey_instructions
+====================
+
+On the next page you'll fill in a presurvey. Please answer all the questions.
+ (press [space] to continue)
+
+====================
+test_audioset
+====================
+
+Do you have your headphones or your headset on ? You should. Otherwise, you will not be able to hear correctly the audio files..<br /><br />
+<b> To be paid, you must do this study attentively and carefully. Please pay
+attention to the stimuli and respond appropriately.
+</b>
+ (press [space] to continue)
+
+====================
+training
+====================
+
+You will first be trained on the task we will ask you to perform during this experiment. On the next pages you'll listen to a list of audio files separated by a brief pause. This experiment has been set up to enable you to answer questions with your keyboard. Please follow the instructions.
+ (press [space] to continue)
+
+
+
+====================
+training_simple
+====================
+
+The first examples are fake, and really easy. They are not like what you will hear during the rest of the experiment, except during attention tests to check you are still focused on the task.
+(presser [espace] pour continuer)
+
+====================
+training_harder
+====================
+
+The following examples are like what you will hear during the rest of the experiment and they are noisy. (presser [espace] pour continuer)
+
+
+====================
+you_should_have_first_cat_dog_cat
+====================
+
+You just heard 'cat' 'dog', then 'cat' again. The last sound was closer to the first sound than to the second sound. <br /><br />We expect that you
+would have pressed 'first for sure', or the [f] key. You might also
+press the options 'first, almost sure' [g] or 'first, unsure' [h] for
+cases where you are not very sure or feel you are just guessing.<br /><br />
+ (press [space] to continue)
+====================
+you_should_have_second_dog_cat_cat
+====================
+
+You just heard 'dog', 'cat' and then 'cat' again. The last sound was closer to the second sound than to the second sound. <br /><br />We expect that you
+would have pressed 'second for sure', or the [c] key. You might also
+press the options 'second, almost sure' [v] or 'second, unsure' [b] for
+cases where you are not very sure or feel you are just guessing.<br /><br /> (press [space] to continue)
+
+
+====================
+you_should_have_second_dog_cat_dog
+====================
+
+You just heard 'dog', 'cat', then 'dog' again. The last sound was closer to the first sound than to the second sound. <br /><br />We expect that you
+would have pressed 'first for sure', or the [f] key. You might also
+press the options 'first, almost sure' [g] or 'first, unsure' [h] for
+cases where you are not very sure or feel you are just guessing.<br /><br /> (press [space] to continue)
+
+====================
+you_should_have_second_cat_dog_dog
+====================
+
+You just heard 'cat', 'dog' and then 'dog' again. The last sound was closer to the second sound than to the second sound. <br /><br />We expect that you
+would have pressed 'second for sure', or the [c] key. You might also
+press the options 'second, almost sure' [v] or 'second, unsure' [b] for
+cases where you are not very sure or feel you are just guessing.<br /><br /> (press [space] to continue)
+
+====================
+you_should_have_other
+====================
+
+The right answer was the first sound, but, since the sounds
+were noisy and that they are from another language than English, it was hard tell. In difficult cases, use the buttons
+'almost sure' or 'not sure', and use your intuition as to whether it is
+the first or second. Try not to overthink this task. Follow your instinct.<br /><br /> (press [space] to continue)
+
+====================
+you_should_have_easy_1
+====================
+
+The last sound was closer to the first sound than to the second sound. <br /><br />We expect that you
+would have pressed 'first for sure', or the [f] key. You might also
+press the options 'first, almost sure' [g] or 'first, unsure' [h] for
+cases where you are not very sure or feel you are just guessing.<br /><br /> (press [space] to continue)
+
+====================
+you_should_have_easy_0
+====================
+
+The last sound was closer to the second sound than to the second sound. <br /><br />We expect that you
+would have pressed 'second for sure', or the [c] key. You might also
+press the options 'second, almost sure' [v] or 'second, unsure' [b] for
+cases where you are not very sure or feel you are just guessing.<br /><br /> (press [space] to continue)
+
+====================
+randomized_demo_introduction
+====================
+
+This is a short LMEDS sample experiment meant to demonstrate the randomization feature.
+<br /><br />
+Please read the user manual for more information about how to randomize the presentation
+order of stimuli to users.
+
+====================
+remote_experiment_notice
+====================
+
+Before you begin the following experiment, please take note of the following points.
+<br /><br />
+
+<b>1)</b> Please <b>read all instructions</b> that appear throughout this experiment carefully.  Do not skip or skim instructions.<br /><br />
+
+<b>2)</b> Please <b>wear headphones or earbuds</b> when listening to audio files.
+<br /><br />
+
+<b>3)</b> <b>You should be in a quiet room</b>, free from distraction for the duration of the experiment.  If there is significant background noise, such as in a cafe or other public area, you may have trouble listening to audio files and concentrating on the experiment.
+<br /><br />
+
+<b>4)</b> Please <b>silence or turn off your cell-phone</b> and other noise-making electronics.
+<br /><br />
+
+<b>5)</b> Please <b>close all other browser windows or tabs</b>--particularly those that issue auditory or visual alerts or status updates such as email providers or social networking websites.
+<br /><br />
+
+<b>6)</b> Unless instructed otherwise, please <b>do not perform other tasks</b> or otherwise stray from the current task while you are doing the experiment.
+<br /><br />
+
+<br />
+
+By clicking 'submit' you acknowledge that you will follow these to the best of your ability.
+ (press [space] to continue)
+
+====================
+same_different_instructions
+====================
+
+On the next page, you will hear three audio files separated by a brief pause. The first sound is referred as A, the second as B and the last one as X. Please indicate to which sound A or B, X is the closest.
+ (press [space] to continue)
+
+
+
+====================
+sliders_in_surveys
+====================
+
+Sliders can also be used in surveys.
+
+====================
+speed_warning
+====================
+
+Your browser must be up-to-date and your internet speed must be fast to complete
+this task, which involves listening to large audio files.<br /><br />
+
+If you are on an old computer or have a slow internet connection, please cancel your participation.
+ (press [space] to continue)
+
+====================
+break_text
+====================
+
+We encourage you to take a 5 to 10 min breaks in order to stay focused for the rest of the study. You can click on "Continue" when you are ready.
+ (press [space] to continue)
+
+====================
+video_ok
+====================
+
+LMEDS can also play use video.  Any pages shown with audio files can have the audio replaced with video, as demonstrated next.
+
+====================
+feedbacks
+====================
+
+The experiment in which you just participated aims to understand how human beings perceive speech, and
+learn to perceive speech, in their native language. It is well known that languages differ from one another in
+the sounds (consonant and vowel sounds) that they use to make words. For example, in English, the ​ ee ​ sound
+and the ​ ih sound are two different speech sounds, which can be used to make different words (​ feet versus fit ) ​ .
+In many other languages, this is not the case. In Spanish, for example, there is an ​ ee s ​ ound (written ​ i, as in
+señorita), but there is no distinct ​ ih sound (thus, although the Spanish word ​ chili ​ has been adapted into
+English as ​ chih-lee, ​ the Spanish pronunciation is chee-lee). It is also well known that human beings perceive
+differences in speech sounds much better when these differences are used in the language or languages to
+which they had early exposure during infancy and childhood, and have difficulties hearing the differences
+between sounds which are not used in their language(s). This is a major reason for which people learning
+second languages later in life tend to have "foreign accents" when they speak.<br /><br />
+This study aims to understand the cognitive brain mechanisms by which human beings perceive and learn the
+sounds of their language. By aggregating the results of many experimental participants in artificial
+experiments which simulate some aspect of speech perception or learning of sounds, and, in particular, by
+examining which sounds, or which learning tasks, people find more difficult, we are able to test specific
+hypotheses about the underlying cognitive mechanisms, which make specific predictions. By understanding
+these cognitive mechanisms, we also hope to better understand why it is that all human languages have
+certain things in common.<br /><br />
+If you have any questions or comments about this study, its scientific context, or would like further
+information about the results after the study is over, please contact us at the email address provided.
+ (press [space] to continue)
+
+------------------------------
+media_test
+------------------------------
+
+====================
+error_verify_media
+====================
+
+You must mark one of the choices before you continue
+
+====================
+mediaTest_affirm
+====================
+
+I can hear the audio
+
+====================
+mediaTest_reject
+====================
+
+I cannot hear the audio
+
+====================
+mediaTest_text
+====================
+
+Please listen to the sound file and indicate whether or not you can hear it.
+<br /><br />
+
+You may also use this time to adjust your volume.
+
+------------------------------
+consent
+------------------------------
+
+====================
+consent
+====================
+
+I consent
+
+====================
+consent_query
+====================
+
+Do you consent to participate in this study?
+
+====================
+consent_title
+====================
+
+Online Informed Consent
+
+====================
+demo_consent
+====================
+
+<b>Investigators:</b>  Ewan DUNBAR and Juliette MILLET (University of Paris) <br /><br />
+
+<b>Protocol name:</b> Perception et apprentissage de la parole dans la typologie géométrique des inventaires phonologiques<br /><br />
+
+<b>What you will be expected to do:</b>  If you agree to participate, you'll perform a variety of tasks with simple instructions that involve listening to audio files and responding to questions.<br /><br />
+
+<b>Your right to withdraw at any time:</b> You have the right to withdraw your consent at any time. <br /><br />
+
+<b>Possible risks:</b>  To our knowledge there are no risks or discomforts involved in this research beyond those encountered in other everyday activities. <br /><br />
+
+<b>Dissemination:</b> We will anonymized your results to our experiment and we will use them only for public research purpouses. <br /><br />
+
+<b>Your right to ask questions at any time:</b>  Please contact juliette.millet@cri-paris.org if you have any questions about this experiment.  <br /><br />
+
+<b>Giving consent to participate:</b> By digitally signing this consent form, you certify that you are 18 years of age or older, that you have read the above and understand it, that you have been given satisfactory answers to any questions about the research, and that you have been advised that you are free to withdraw your consent and to discontinue participation in the research at any time, without prejudice. <br /><br />
+
+Please print a copy of this consent form for your records, if you so desire. <br /><br />
+
+I have read and understand the above consent form, I certify that I am 18 years old or older and, by clicking the submit button to enter the survey, I indicate my willingness to voluntarily take part in the study.<br /><br />
+
+
+====================
+dissent
+====================
+
+I do not consent
+
+====================
+error_consent_or_dissent
+====================
+
+To continue you must either choose either to consent or to not consent.
+
+------------------------------
+media_list
+------------------------------
+
+====================
+memory_a
+====================
+
+A
+
+====================
+memory_b
+====================
+
+B
+
+====================
+memory_instruct
+====================
+
+Blaah
+
+------------------------------
+media_choice
+------------------------------
+
+====================
+same_different_instr
+====================
+
+Is the last sound closer to the first sound or the second sound ? (press [space] to hear the sound)
+
+====================
+same_different_training
+====================
+
+Is the last sound closer to the first sound or the second sound ? (press [space] to hear the sound or click on 'Listen')
+
+
+=============
+A_for_sure
+=============
+
+<font color="#cc0000"><b>first</b> for sure</font> (press [f])
+
+=============
+B_for_sure
+=============
+
+<font color="#000066"><b>second</b> for sure</font> (press [c])
+
+=============
+A_almost_sure
+=============
+
+<font color="#e64d4d"><b>first</b> almost sure</font> (press [g])
+
+=============
+B_almost_sure
+=============
+
+<font color="#006699"><b>second</b> almost sure</font> (press [v])
+
+=============
+A_unsure
+=============
+
+<font color="#ff9999"><b>first</b> unsure</font> (press [h])
+
+=============
+B_unsure
+=============
+
+<font color="#00cccc"><b>second</b> unsure</font> (press [b])
+
+------------------------------
+fill_in_the_blank
+------------------------------
+
+------------------------------
+boundary_and_prominence
+------------------------------
+
+====================
+keyboard_shortcuts_boundary
+====================
+
+<font color="red">Boundary task.</font>  Press [p] to play the audio file and [enter] to continue
+
+====================
+keyboard_shortcuts_prominence
+====================
+
+<font color="blue">Prominence task.</font>  Press [p] to play the audio file and [enter] to continue
+
+====================
+mark_one_boundary
+====================
+
+Mark exactly one boundary.
+
+====================
+mark_one_prominence
+====================
+
+Mark exactly one prominence.
+
+====================
+pbMinMaxSelectedErrorMsg
+====================
+
+Error.  You must select at least %d word(s) but not more than %d word(s).
+
+====================
+true
+====================
+
+
+
+------------------------------
+boundary
+------------------------------
+
+====================
+boundary_at_most_one
+====================
+
+Mark at most one boundary.
+
+------------------------------
+prominence
+------------------------------
+
+====================
+prominence_at_least_two
+====================
+
+Mark at least two prominences.
+
+------------------------------
+syllable_marking
+------------------------------
+
+====================
+nonspecific_syllables
+====================
+
+Please mark the most prominent syllable in each word.
+
+------------------------------
+media_slider
+------------------------------
+
+====================
+prominence_scale_instr
+====================
+
+Slide the scale to indicate the degree of prominence you hear for the word in bold text.
+
+------------------------------
+end
+------------------------------
+
+====================
+test_complete
+====================
+
+You have reached the end of this study. Thank you for your participation.
+<br /><br />
+If you come from Amazon Mechanical Turk, here is the code you will need to validate this study:<br /><br />
+<b>FRENG9480</b><br /><br />
+Have a nice day!
+
+------------------------------
+login_bad_user_name
+------------------------------
+
+====================
+error_user_name_exists
+====================
+
+<font color="red"> ERROR: Username '%s' already exists or is invalid.  You may have already done this experiment, in which case you may not participate in it again. If you were forced to restart, use a similar name to your worker id (add a _1 to the end).</font>
+
+------------------------------
+media_test_end
+------------------------------
+
+====================
+mediaTest_no_audio
+====================
+
+You have indicated that you are unable to hear the audio file.  You are not
+able to participate in this experiment.  Thank you for your time.
+
+------------------------------
+consent_end
+------------------------------
+
+====================
+consent_opt_out
+====================
+
+You have chosen not to participate in this study. Thank you for your time. 
+<br /><br />
+
+------------------------------
+boundary_and_prominence,boundary,prominence
+------------------------------
+
+====================
+nonspecific_boundary_instr
+====================
+
+Mark a boundary between words <font color="red">that belong to different chunks</font>.
+
+------------------------------
+lmeds_interface,login,login_bad_user_name
+------------------------------
+
+====================
+back_button_warning
+====================
+
+<font color="red">.</font>
+
+------------------------------
+login,text_page,consent,login_bad_user_name
+------------------------------
+
+====================
+title
+====================
+
+Perception test
+
+------------------------------
+media_choice,media_slider
+------------------------------
+
+====================
+nonprominent
+====================
+
+Nonprominent
+
+====================
+prominent
+====================
+
+Prominent
+
+------------------------------
+boundary_and_prominence,prominence,boundary
+------------------------------
+
+====================
+nonspecific_prominence_instr
+====================
+
+Mark the words that the speaker <font color="blue">highlighted for the listener, to make them stand out</font>.
+
+------------------------------
+prominence,boundary_and_prominence
+------------------------------
+
+====================
+pbMinSelectedErrorMsg
+====================
+
+Error.  You must select at least %d word(s).
+
+------------------------------
+login,login_bad_user_name
+------------------------------
+
+====================
+error_blank_name
+====================
+
+Please enter your MTurk ID.  No spaces please.  (e.g. k123l or john_doe_22)
+
+====================
+unsupported_warning
+====================
+
+
+
+====================
+user_name_text
+====================
+
+Please enter a MTurk ID.  No spaces please.  (e.g. k123l or john_doe_22)
+
+------------------------------
+media_test,media_list,media_choice,boundary_and_prominence,boundary,prominence,syllable_marking,media_slider
+------------------------------
+
+====================
+error_must_play_audio
+====================
+
+You must listen to each of the audio files at least %d time(s).
+
+====================
+error_must_play_audio_at_least
+====================
+
+You must listen to each of the audio files at least %d time(s).
+
+====================
+play_button
+====================
+
+Play
+
+------------------------------
+lmeds_interface,boundary_and_prominence
+------------------------------
+
+====================
+continue_button
+====================
+
+Continue
+
+------------------------------
+boundary,boundary_and_prominence
+------------------------------
+
+====================
+pbMaxSelectedErrorMsg
+====================
+
+Error. You must not select more than %d word(s).
+

@@ -1,0 +1,12 @@
+login,[],None,None,0,0;,[]
+text_page,[first_page,bindSubmitKeyIDList=,[space]],None,None,0:0.8,1;,[]
+text_page,[speed_warning,bindSubmitKeyIDList=,[space]],None,None,0:0.9,2;,[]
+text_page,[remote_experiment_notice,bindSubmitKeyIDList=,[space]],None,None,0:0.5,3;,[]
+consent,[demo_consent],None,None,0:4.0,4;,[]
+text_page,[presurvey_instructions,bindSubmitKeyIDList=,[space]],None,None,0:0.7,5;,[]
+survey,[presurveyenglish],None,None,0:5.6,6;,0,1,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1
+text_page,[test_audioset,bindSubmitKeyIDList=,[space]],None,None,0:0.7,7;,[]
+media_test,[audio,caillou],1,None,0:5.6,8;,[]
+text_page,[training,bindSubmitKeyIDList=,[space]],None,None,0:1.2,9;,[]
+text_page,[training_simple,bindSubmitKeyIDList=,[space]],None,None,0:1.1,10;,[]
+text_page,[training_text,bindSubmitKeyIDList=,[space]],None,None,0:1.4,11;,[]

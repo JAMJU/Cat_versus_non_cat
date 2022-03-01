@@ -1,0 +1,11 @@
+login,[],None,None,0,0;,[]
+text_page,[first_page,bindSubmitKeyIDList=,[space]],None,None,0:1.2,1;,[]
+text_page,[speed_warning,bindSubmitKeyIDList=,[space]],None,None,0:1.5,2;,[]
+text_page,[remote_experiment_notice,bindSubmitKeyIDList=,[space]],None,None,0:3.3,3;,[]
+consent,[demo_consent],None,None,0:4.3,4;,[]
+text_page,[presurvey_instructions,bindSubmitKeyIDList=,[space]],None,None,0:1.6,5;,[]
+survey,[presurveyfrench],None,None,0:9.7,6;,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1
+text_page,[test_audioset,bindSubmitKeyIDList=,[space]],None,None,0:2.2,7;,[]
+media_test,[audio,caillou],1,None,0:6.5,8;,[]
+text_page,[training,bindSubmitKeyIDList=,[space]],None,None,0:2.8,9;,[]
+login,[],None,None,0:10.7,0;,[]

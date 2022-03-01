@@ -1,0 +1,31 @@
+  var nb_check = 0;
+  var nb_must_be_checked = 0;
+  for (var i=0; i < loop_end; i++) {
+    var field = document.forms["languageSurvey"][String(i)];
+    var t = field.type;
+
+    if (field.id == "2" || field.id == "3" || field.id == "4" || field.id == "5" || field.id == "6" || field.id == "7" || field.id == "8" || field.id == "9" || field.id == "10" || field.id == "11" || field.id == "12" || field.id == "13"){
+        if (field.id != radio_id){
+            nb_check++;
+        }
+    } else { if (t == "radio") {
+                if (field.checked){
+                    nb_check ++
+                }
+        } else {
+            if (field.id != radio_id){
+                nb_check++
+            }
+
+        }
+     }
+     if (field.id != radio_id) {
+        nb_must_be_checked++;
+        radio_id = field.id
+    }
+
+  }
+  if (nb_check < nb_must_be_checked) {
+    alert("All fields must be filled out");
+  }
+  return nb_check >= nb_must_be_checked;

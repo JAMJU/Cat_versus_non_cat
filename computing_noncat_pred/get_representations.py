@@ -17,12 +17,8 @@ def get_triphone_dpgmm(folder_data, triphone_name):
 
 def get_triphone_wav2vec(folder_data, triphone_name, layer_name):
     """ We need to return the representation with timexdim"""
-    if 'conv' in layer_name:
-        data = np.load(os.path.join(folder_data, triphone_name + '.npy'))
-        return data.swapaxes(0,1) # we put time as first dimension
-    else:
-        data = np.load(os.path.join(folder_data, triphone_name + '.npy'))
-        sh = data.shape
-        data = data.reshape((sh[0], sh[-1]))
-        return data
+    data = np.load(os.path.join(folder_data, triphone_name + '.npy'))
+    sh = data.shape
+    data = data.reshape((sh[0], sh[-1]))
+    return data
 

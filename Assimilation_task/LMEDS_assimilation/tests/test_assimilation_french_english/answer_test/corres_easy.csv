@@ -1,0 +1,25 @@
+filename	TGT_first
+hibou_caillou_hibou2	True
+caillou_hibou_caillou_whisper	True
+hibou_caillou_caillou2	False
+hibou_caillou_hibou_whisper	True
+caillou_hibou_caillou	True
+caillou_hibou_hibou2	False
+dog_cat_dog2	True
+dog_cat_cat_whisper	False
+dog_cat_cat2	False
+cat_dog_cat_whisper	True
+cat_dog_dog2	False
+cat_dog_cat2	True
+hibou_pibou_hibou	True
+easy_FR2501	True
+easy_EN943	True
+easy_EN1073	True
+easy_EN1738	False
+easy_FR2065	True
+easy_EN1563	True
+easy_FR2366	False
+easy_FR2239	True
+easy_FR1351	True
+easy_FR548	False
+

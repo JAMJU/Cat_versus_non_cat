@@ -1,0 +1,6 @@
+*french_0
+login
+
+text_page text_no_more bindSubmitKeyIDList=[space]
+
+end

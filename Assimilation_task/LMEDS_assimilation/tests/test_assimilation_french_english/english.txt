@@ -1,0 +1,881 @@
+
+=============
+polluted
+=============
+
+polluted
+
+=============
+cold
+=============
+
+cold
+
+=============
+not_drinkable
+=============
+
+not drinkable
+
+------------------------------
+lmeds_interface
+------------------------------
+
+====================
+loading_progress
+====================
+
+Loading.  Please wait.
+
+====================
+metadata_description
+====================
+
+A demonstration of the kinds of pages that can be presented to subjects via LMEDS.
+
+====================
+progress
+====================
+
+Progress
+
+------------------------------
+text_page
+------------------------------
+
+====================
+text_no_more
+====================
+
+We have enough participants for this study. Thank you for your time!
+
+
+====================
+first_page
+====================
+Welcome.
+You have chosen to participate in our study.
+<b> To be paid, you must do this study attentively and carefully. Please pay
+attention to the stimuli and respond appropriately.
+</b>
+For each task, you will be presented with some 
+instructions, please follow them carefully. 
+You will have to answer to a pre survey about your language experience, and a post survey about your pronunciation of some english words.<br /><br />
+
+The whole study should last around 30min. <br /><br />
+Thank you for your time.<br /><br />
+ (press [space] to continue)
+====================
+keyboard_shortcuts
+====================
+
+On the next page there is a boundary and prominence page followed by 
+a media choice page, as you have seen before.  However,
+these pages have been configured to allow interaction via a keyboard.
+Specific instructions will be given for each page.
+ (press [space] to continue)
+
+====================
+post_survey_instructions
+====================
+
+On the next page you will fill in a post survey. Please answer all the questions.
+ (press [space] to continue)
+
+====================
+presurvey_instructions
+====================
+
+On the next page you'll fill in a presurvey. Please answer all the questions.
+ (press [space] to continue)
+
+====================
+test_audioset
+====================
+
+Do you have your headphones on ? You should put them on now if not. Otherwise, you will not be able to hear correctly the audio files.<br /><br />
+<b> To be paid, you must do this study attentively and carefully. Please pay
+attention to the stimuli and respond appropriately.
+</b>
+ (press [space] to continue)
+
+
+
+====================
+cat
+====================
+
+cat
+
+====================
+dog
+====================
+
+dog
+
+
+
+
+
+====================
+attention
+====================
+Which word do you hear ?
+
+====================
+break_vowels
+====================
+<b>You should take a  small break</b>. <br /><br />
+
+Here, again, is the list of reference. Once you want to continue the experiment, please listen to them again in order to make sure you are familiar with all of the vowel sounds that this experiment makes reference to.
+Every vowel sound is in bold in the reference words below. Click on the buttons to listen to the words. Please, take the time to differentiate between all these vowel sounds.
+You can listen to the words multiple times. Once you have listened to all of them, click on 'Done'. You will be asked to listen to these words later on in the experiment.
+
+====================
+break_vowels_end
+====================
+<b>You should take a  small break</b>. <br /><br />
+
+Here, again, is the list of reference. Once you want to continue the experiment, please listen to them again in order to make sure you are familiar with all of the vowel sounds that this experiment makes reference to.
+Every vowel sound is in bold in the reference words below. Click on the buttons to listen to the words. Please, take the time to differentiate between all these vowel sounds.
+You can listen to the words multiple times. Once you have listened to all of them, click on 'Done'. This is the last time we will ask you to listen to these words.
+====================
+done
+====================
+Done
+
+====================
+training
+====================
+
+The task we will ask you to do requires you to be able to identify all the different English vowel sounds.
+You will first have to listen to some reference words that contain them. Follow the instructions.
+ (presser [espace] pour continuer)
+
+====================
+training_vowels
+====================
+
+Here is a list of reference words that contain all the English vowel sounds that you will need to familiarize yourself with for this experiment.
+Every vowel sound is in bold in the reference words below. Click on the buttons to listen to the words. Please, take the time to differentiate between all these vowel sounds.
+You can listen to the words multiple times. Once you have listened to all of them, click on 'Done'.
+You will be asked to listen to these words again throughout the experiment.
+
+====================
+training_exp_inst
+====================
+
+In this experiment, we are going to ask you to listen to syllables. For example, you might hear the syllable “pap.”
+These syllables will come from languages other than English. For each syllable, we are going to ask you which English vowel sound, out of the sounds you just identified,
+is the most similar to its central vowel sound. In the example of “pap”, you would likely click on “trap”, in order to indicate that the most similar sound is the “a” sound in “trap". <br /><br />
+
+Next, you will have to indicate if the vowel sound you heard in the syllable would be considered a good example of the English vowel you selected, or whether it would sound unusual if you heard someone pronounce the sound in that way. <br /><br />
+
+We are going to train you on a few examples, and then you will begin the experiment.  (press [space] to continue)
+
+
+====================
+alerte
+====================
+
+The way people pronounce English differs depending on where they are from and how old they are. There may be options that don't correspond to
+a sound that you would ever use in your own speech. You may also find there are options missing. Choose the option that seems the most reasonable.
+
+====================
+training_exp_fɪf
+====================
+
+You just heard a syllable which could be spelled 'fif', with the same vowel sound as in the word ‘k<b>i</b>t.’ So you should have selected ‘kit’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘k<b>i</b>t’.
+
+====================
+training_exp_teɪs
+====================
+You just heard a syllable which could be spelled 'tace', with the same vowel sound as in the word ‘t<b>a</b>pe'. So you should have selected ‘t<b>a</b>pe’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘t<b>a</b>pe’.
+
+====================
+training_exp_fʌf
+====================
+You just heard a syllable which could be spelled 'fafe', with the same vowel sound as in the word ‘str<b>u</b>t'. So you should have selected ‘str<b>u</b>t’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘str<b>u</b>t’.
+
+====================
+training_exp_tɛt
+====================
+
+You just heard a syllable which could be spelled 'tet', with the same vowel sound as in the word ‘dr<b>e</b>ss'. So you should have selected ‘dr<b>e</b>ss’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘dr<b>e</b>ss’.
+
+
+====================
+training_exp_foʊf
+====================
+You just heard a syllable which could be spelled 'fofe', with the same vowel sound as in the word ‘g<b>oa</b>t'. So you should have selected ‘g<b>oa</b>t’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘g<b>oa</b>t’.
+
+====================
+training_exp_tɑf
+====================
+You just heard a syllable which could be spelled 'toff', with the same vowel sound as in the word ‘st<b>o</b>p'. So you should have selected ‘st<b>o</b>p’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘st<b>o</b>p’.
+
+
+====================
+training_exp_tis
+====================
+You just heard a syllable which could be spelled 'teece', with the same vowel sound as in the word ‘fl<b>ee</b>ce'. So you should have selected ‘fl<b>ee</b>ce’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘fl<b>ee</b>ce’.
+
+====================
+training_exp_tʊt
+====================
+You just heard a syllable which could be spelled 'tuht', with the same vowel sound as in the word ‘l<b>oo</b>k'. So you should have selected ‘l<b>oo</b>k’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘l<b>oo</b>k’.
+
+====================
+training_exp_zæt
+====================
+You just heard a syllable which could be spelled 'zat', with the same vowel sound as in the word ‘tr<b>a</b>p'. So you should have selected ‘tr<b>a</b>p’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘tr<b>a</b>p’.
+
+====================
+training_exp_zut
+====================
+You just heard a syllable which could be spelled 'zoot', with the same vowel sound as in the word ‘l<b>oo</b>p'. So you should have selected ‘l<b>oo</b>p’ as an answer.
+Unlike the syllables that you will hear in the real experiment, this syllable was pronounced by an English speaker.
+The speaker has a typical American English pronunciation, and you would most likely have indicated that it was a Typical or Fairly typical example of the vowel sound in the word ‘l<b>oo</b>p’.
+
+====================
+training_exp_ext
+====================
+
+You just heard a syllable with a vowel sound typical of a language other than English. Here, you should follow your instinct, in order to choose the most similar English vowel sound.
+You would likely indicate that it was not a Typical or Fairly typical example of this vowel sound. (press [space] to continue)
+
+====================
+before_exp
+====================
+
+You can now start the experiment. <br /><br />
+
+You will do the same task you were just trained on.
+The audio examples have been extracted from continuous speech, and you may sometimes hear a very small part of the surrounding context.
+For example, you may hear  'ipap' or ‘papuh’,  instead of just 'pap'. Focus on the central vowel of the main syllable (the 'a' in our example).
+ <br /><br />
+There will be multiple breaks, and we will be ensuring that you are paying attention. Before the real start of the experiment, you will have to hear all the reference words once again. (press [space] to continue)
+
+
+====================
+before_exp_vow
+====================
+
+Here are all the reference words. Please, listen carefully to all of them, and once your are done, click on 'Done'.
+
+====================
+randomized_demo_introduction
+====================
+
+This is a short LMEDS sample experiment meant to demonstrate the randomization feature.
+<br /><br />
+Please read the user manual for more information about how to randomize the presentation
+order of stimuli to users.
+
+====================
+remote_experiment_notice
+====================
+
+Before you begin the following experiment, please take note of the following points.
+<br /><br />
+
+<b>1)</b> Please <b>read all instructions</b> that appear throughout this experiment carefully. Some aspects of what you are asked to do will be new to you, even if you have done a similar perception test before.<br /><br />
+
+<b>2)</b> Please <b>wear headphones or earbuds</b> when listening to audio files.
+<br /><br />
+
+<b>3)</b> <b>You should be in a quiet room</b>, free from distraction for the duration of the experiment.  If there is significant background noise, such as in a cafe or other public area, you may have trouble listening to audio files and concentrating on the experiment.
+<br /><br />
+
+<b>4)</b> Please <b>silence or turn off your cell-phone</b> and other noise-making electronics.
+<br /><br />
+
+<b>5)</b> Please <b>close all other browser windows or tabs</b>--particularly those that issue auditory or visual alerts or status updates such as email providers or social networking websites.
+<br /><br />
+
+<b>6)</b> Unless instructed otherwise, please <b>do not perform other tasks</b> or otherwise stray from the current task while you are doing the experiment.
+<br /><br />
+
+<br />
+
+By clicking 'submit' you acknowledge that you will follow these to the best of your ability.
+By clicking 'submit' you acknowledge that you will follow these to the best of your ability.
+ (press [space] to continue)
+
+====================
+same_different_instructions
+====================
+
+On the next page, you will hear three audio files separated by a brief pause. The first sound is referred as A, the second as B and the last one as X. Please indicate to which sound A or B, X is the closest.
+ (press [space] to continue)
+
+
+
+====================
+sliders_in_surveys
+====================
+
+Sliders can also be used in surveys.
+
+====================
+speed_warning
+====================
+
+We strongly recommend that you not attempt to do this task if you are on a very old computer or have a slow internet connection. <br /><br />
+It will be very difficult for you to complete the task due to the time needed to load the audio files.
+ (press [space] to continue)
+
+====================
+break_text
+====================
+
+We encourage you to take a 5 to 10 min breaks in order to stay focused for the rest of the study. You can click on "Continue" when you are ready.
+ (press [space] to continue)
+
+====================
+video_ok
+====================
+
+LMEDS can also play use video.  Any pages shown with audio files can have the audio replaced with video, as demonstrated next.
+
+====================
+feedbacks
+====================
+
+The experiment in which you just participated aims to understand how human beings perceive speech, and
+learn to perceive speech, in their native language. It is well known that languages differ from one another in
+the sounds (consonant and vowel sounds) that they use to make words. For example, in English, the ​ ee ​ sound
+and the ​ ih sound are two different speech sounds, which can be used to make different words (​ feet versus fit ) ​ .
+In many other languages, this is not the case. In Spanish, for example, there is an ​ ee s ​ ound (written ​ i, as in
+señorita), but there is no distinct ​ ih sound (thus, although the Spanish word ​ chili ​ has been adapted into
+English as ​ chih-lee, ​ the Spanish pronunciation is chee-lee). It is also well known that human beings perceive
+differences in speech sounds much better when these differences are used in the language or languages to
+which they had early exposure during infancy and childhood, and have difficulties hearing the differences
+between sounds which are not used in their language(s). This is a major reason for which people learning
+second languages later in life tend to have "foreign accents" when they speak.<br /><br />
+This study aims to understand the cognitive brain mechanisms by which human beings perceive and learn the
+sounds of their language. By aggregating the results of many experimental participants in artificial
+experiments which simulate some aspect of speech perception or learning of sounds, and, in particular, by
+examining which sounds, or which learning tasks, people find more difficult, we are able to test specific
+hypotheses about the underlying cognitive mechanisms, which make specific predictions. By understanding
+these cognitive mechanisms, we also hope to better understand why it is that all human languages have
+certain things in common.<br /><br />
+If you have any questions or comments about this study, its scientific context, or would like further
+information about the results after the study is over, please contact us at the email address provided.
+ (press [space] to continue)
+
+------------------------------
+media_test
+------------------------------
+
+====================
+error_verify_media
+====================
+
+You must mark one of the choices before you continue
+
+====================
+mediaTest_affirm
+====================
+
+I can hear the audio
+
+====================
+mediaTest_reject
+====================
+
+I cannot hear the audio
+
+====================
+mediaTest_text
+====================
+
+Please listen to the sound file and indicate whether or not you can hear it.
+<br /><br />
+
+You may also use this time to adjust your volume.
+
+------------------------------
+consent
+------------------------------
+
+====================
+consent
+====================
+
+I consent
+
+====================
+consent_query
+====================
+
+Do you consent to participate in this study?
+
+====================
+consent_title
+====================
+
+Online Informed Consent
+
+====================
+demo_consent
+====================
+
+<b>Investigators:</b>  Ewan DUNBAR and Juliette MILLET (University of Paris) <br /><br />
+
+<b>Protocol name:</b> Perception et apprentissage de la parole dans la typologie géométrique des inventaires phonologiques<br /><br />
+
+<b>What you will be expected to do:</b>  If you agree to participate, you'll perform a variety of tasks with simple instructions that involve listening to audio files and responding to questions.<br /><br />
+
+<b>Your right to withdraw at any time:</b> You have the right to withdraw your consent at any time. <br /><br />
+
+<b>Possible risks:</b>  To our knowledge there are no risks or discomforts involved in this research beyond those encountered in other everyday activities. <br /><br />
+
+<b>Dissemination:</b> We will anonymize your results. Your identity will not be used in any way for the analysis or dissemination of the results of this experiment. We will use the results only for public research purposes. <br /><br />
+
+<b>Your right to ask questions at any time:</b>  Please contact juliette.millet@cri-paris.org if you have any questions about this experiment.  <br /><br />
+
+<b>Giving consent to participate:</b> By digitally signing this consent form, you certify that you are 18 years of age or older, that you have read the above and understand it, that you have been given satisfactory answers to any questions about the research, and that you have been advised that you are free to withdraw your consent and to discontinue participation in the research at any time, without prejudice. <br /><br />
+
+Please print a copy of this consent form for your records, if you so desire. <br /><br />
+
+I have read and understand the above consent form, I certify that I am 18 years old or older and, by clicking the submit button to enter the survey, I indicate my willingness to voluntarily take part in the study.<br /><br />
+
+
+====================
+dissent
+====================
+
+I do not consent
+
+====================
+error_consent_or_dissent
+====================
+
+To continue you must either choose either to consent or to not consent.
+
+------------------------------
+media_list
+------------------------------
+
+====================
+memory_a
+====================
+
+A
+
+====================
+memory_b
+====================
+
+B
+
+====================
+memory_instruct
+====================
+
+Blaah
+
+------------------------------
+media_choice
+------------------------------
+
+====================
+same_different_instr
+====================
+
+Is the last sound closer to the first sound or the second sound ? (press [space] to hear the sound)
+
+====================
+same_different_training
+====================
+
+Is the last sound closer to the first sound or the second sound ? (press [space] to hear the sound or click on 'Listen')
+
+
+====================
+assimilation_instr
+====================
+
+Which of the English vowel sounds is the central vowel of this syllable most similar to?
+
+====================
+rating_instr
+====================
+
+How good was this sound as a typical example of the English vowel sound you selected? (You can listen to the syllable once again if you want to)
+
+====================
+R_bad
+====================
+
+Very unusual
+
+====================
+bad
+====================
+
+Unusual
+
+====================
+medium
+====================
+
+Neither too unusual nor too typical
+
+====================
+good
+====================
+
+Fairly typical
+
+====================
+R_good
+====================
+
+Typical example
+
+====================
+assimilation_training
+====================
+
+Is the last sound closer to the first sound or the second sound ? (press [space] to hear the sound or click on 'Listen')
+
+
+=============
+ɪ
+=============
+
+k<b>i</b>t
+
+=============
+ɛ
+=============
+
+dr<b>e</b>ss
+=============
+æ
+=============
+
+tr<b>a</b>p
+
+=============
+ɑ
+=============
+
+st<b>o</b>p
+
+=============
+ʌ
+=============
+
+str<b>u</b>t
+
+=============
+ʊ
+=============
+
+l<b>oo</b>k
+
+
+=============
+i
+=============
+
+fl<b>ee</b>ce
+=============
+u
+=============
+
+l<b>oo</b>p
+=============
+oʊ
+=============
+
+g<b>oa</b>t
+=============
+eɪ
+=============
+
+t<b>a</b>pe
+
+
+
+------------------------------
+fill_in_the_blank
+------------------------------
+
+------------------------------
+boundary_and_prominence
+------------------------------
+
+====================
+keyboard_shortcuts_boundary
+====================
+
+<font color="red">Boundary task.</font>  Press [p] to play the audio file and [enter] to continue
+
+====================
+keyboard_shortcuts_prominence
+====================
+
+<font color="blue">Prominence task.</font>  Press [p] to play the audio file and [enter] to continue
+
+====================
+mark_one_boundary
+====================
+
+Mark exactly one boundary.
+
+====================
+mark_one_prominence
+====================
+
+Mark exactly one prominence.
+
+====================
+pbMinMaxSelectedErrorMsg
+====================
+
+Error.  You must select at least %d word(s) but not more than %d word(s).
+
+====================
+true
+====================
+
+
+
+------------------------------
+boundary
+------------------------------
+
+====================
+boundary_at_most_one
+====================
+
+Mark at most one boundary.
+
+------------------------------
+prominence
+------------------------------
+
+====================
+prominence_at_least_two
+====================
+
+Mark at least two prominences.
+
+------------------------------
+syllable_marking
+------------------------------
+
+====================
+nonspecific_syllables
+====================
+
+Please mark the most prominent syllable in each word.
+
+------------------------------
+media_slider
+------------------------------
+
+====================
+prominence_scale_instr
+====================
+
+Slide the scale to indicate the degree of prominence you hear for the word in bold text.
+
+------------------------------
+end
+------------------------------
+
+====================
+test_complete
+====================
+
+You have reached the end of this study. Thank you for your participation.
+<br /><br />
+If you come from Amazon Mechanical Turk, here is the code you will need to validate this study:<br /><br />
+<b>ASSIM2020</b><br /><br />
+Have a nice day!
+
+------------------------------
+login_bad_user_name
+------------------------------
+
+====================
+error_user_name_exists
+====================
+
+<font color="red"> ERROR: Username '%s' already exists or is invalid.  You may have already done this experiment, in which case you may not participate in it again. If you were forced to restart, use a similar name to your worker id (add a _1 to the end).</font>
+
+------------------------------
+media_test_end
+------------------------------
+
+====================
+mediaTest_no_audio
+====================
+
+You have indicated that you are unable to hear the audio file.  You are not
+able to participate in this experiment.  Thank you for your time.
+
+------------------------------
+consent_end
+------------------------------
+
+====================
+consent_opt_out
+====================
+
+You have chosen not to participate in this study. Thank you for your time. 
+<br /><br />
+
+------------------------------
+boundary_and_prominence,boundary,prominence
+------------------------------
+
+====================
+nonspecific_boundary_instr
+====================
+
+Mark a boundary between words <font color="red">that belong to different chunks</font>.
+
+------------------------------
+lmeds_interface,login,login_bad_user_name
+------------------------------
+
+====================
+back_button_warning
+====================
+
+<font color="red"></font>
+
+------------------------------
+login,text_page,consent,login_bad_user_name
+------------------------------
+
+====================
+title
+====================
+
+Perception test
+
+------------------------------
+media_choice,media_slider
+------------------------------
+
+====================
+nonprominent
+====================
+
+Nonprominent
+
+====================
+prominent
+====================
+
+Prominent
+
+------------------------------
+boundary_and_prominence,prominence,boundary
+------------------------------
+
+====================
+nonspecific_prominence_instr
+====================
+
+Mark the words that the speaker <font color="blue">highlighted for the listener, to make them stand out</font>.
+
+------------------------------
+prominence,boundary_and_prominence
+------------------------------
+
+====================
+pbMinSelectedErrorMsg
+====================
+
+Error.  You must select at least %d word(s).
+
+------------------------------
+login,login_bad_user_name
+------------------------------
+
+====================
+error_blank_name
+====================
+
+Please enter your MTurk ID.  No spaces please.  (e.g. k123l or john_doe_22)
+
+====================
+unsupported_warning
+====================
+
+
+
+====================
+user_name_text
+====================
+
+Please enter a MTurk ID.  No spaces please.  (e.g. k123l or john_doe_22)
+
+------------------------------
+media_test,media_list,media_choice,boundary_and_prominence,boundary,prominence,syllable_marking,media_slider
+------------------------------
+
+====================
+error_must_play_audio
+====================
+
+You must listen to each of the audio files at least %d time(s).
+
+====================
+error_must_play_audio_at_least
+====================
+
+You must listen to each of the audio files at least %d time(s).
+
+====================
+play_button
+====================
+
+Play
+
+------------------------------
+lmeds_interface,boundary_and_prominence
+------------------------------
+
+====================
+continue_button
+====================
+
+Continue
+
+------------------------------
+boundary,boundary_and_prominence
+------------------------------
+
+====================
+pbMaxSelectedErrorMsg
+====================
+
+Error. You must not select more than %d word(s).
+

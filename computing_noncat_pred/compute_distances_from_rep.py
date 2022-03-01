@@ -62,15 +62,15 @@ if __name__ == '__main__':
         description='script to compute distances')
     parser.add_argument('model_name', metavar='f_do', type=str,
                         help='model')
-    parser.add_argument('layer', metavar='f_do', type=str,
-                        help='layer wanted, only for neural network model')
     parser.add_argument('path_to_data', metavar='f_do', type=str,
                         help='path to representations')
+    parser.add_argument('path_folder_out', metavar='f_do', type=str,
+                        help='path where to put file produced')
     parser.add_argument('triplet_list_file', metavar='f_do', type=str,
                         help='files with a list of triplet')
     args = parser.parse_args()
 
-    triplet_file = 'triplet_data.csv'
+    triplet_file = args.triplet_list_file
 
 
 
@@ -78,10 +78,9 @@ if __name__ == '__main__':
 
     mfccs = lambda x: get_triphone_mfccs(folder_data=args.path_to_data, triphone_name=x)
 
-    dpgmm = lambda x: get_triphone_mfccs(folder_data=args.path_to_data, triphone_name=x)
+    dpgmm = lambda x: get_triphone_dpgmm(folder_data=args.path_to_data, triphone_name=x)
 
-    wav2vec = lambda x: get_triphone_wav2vec(folder_data=args.path_to_data, triphone_name=x,
-                                                    layer_name=args.layer)
+    wav2vec = lambda x: get_triphone_wav2vec(folder_data=args.path_to_data, triphone_name=x)
 
 
 
@@ -89,16 +88,14 @@ if __name__ == '__main__':
         func = mfccs
     elif 'wav2vec' in args.model:
         func = wav2vec
-    elif args.model == 'wav2vec_english':
-        func = wav2vec_english
-    elif args.model == 'wav2vec_10k':
-        func = wav2vec_10k
+    elif 'dpgmm' in args.model:
+        func = dpgmm
 
     else:
         print('Error the model does not exist')
 
 
-    get_distance_for_triplets(filename_triplet_list=triplet_file, file_out=os.path.join('results_acl_paper', args.model + '_'+ args.layer + '_'  + 'triplet_distances.csv'),
+    get_distance_for_triplets(filename_triplet_list=triplet_file, file_out=os.path.join(args.path_file_out, args.model_name + '_triplet.csv'),
                               get_func=func, distance='kl' if 'dpgmm' in args.model else 'cosine')
 
 

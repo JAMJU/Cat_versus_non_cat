@@ -1,0 +1,13 @@
+login,[],None,None,0,0;,[]
+text_page,[first_page,bindSubmitKeyIDList=,[space]],None,None,0:1.7,1;,[]
+text_page,[speed_warning,bindSubmitKeyIDList=,[space]],None,None,0:1.3,2;,[]
+text_page,[remote_experiment_notice,bindSubmitKeyIDList=,[space]],None,None,0:1.9,3;,[]
+consent,[demo_consent],None,None,0:2.8,4;,[]
+text_page,[presurvey_instructions,bindSubmitKeyIDList=,[space]],None,None,0:1.7,5;,[]
+survey,[presurveyenglish],None,None,0:7.0,6;,1,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0
+text_page,[test_audioset,bindSubmitKeyIDList=,[space]],None,None,0:2.5,7;,[]
+media_test,[audio,caillou],1,None,0:5.7,8;,[]
+text_page,[training,bindSubmitKeyIDList=,[space]],None,None,0:1.6,9;,[]
+media_choice,[training_vowels,audio,0,1,10,[[EN-participant1_kit],[EN-participant1_fleece],[EN-participant1_look],[EN-participant1_loop],[EN-participant1_goat],[EN-participant1_tape],[EN-participant1_dress],[EN-participant1_strut],[EN-participant1_trap],[EN-participant1_stop]],[done],mediaButtonLabelList=,[ɪ,i,ʊ,u,oʊ,eɪ,ɛ,ʌ,æ,ɑ]],1,1,0:14.8,10;,1
+text_page,[training_exp_inst,bindSubmitKeyIDList=,[space]],None,None,0:3.7,11;,[]
+text_page,[alerte,bindSubmitKeyIDList=,[space]],None,None,0:1.5,12;,[]

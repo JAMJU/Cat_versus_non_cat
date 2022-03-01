@@ -1,0 +1,46 @@
+Do you consider yourself as an English native speaker? (Mandatory Answers - MA)
+Choice Yes, No
+
+Do you know any languages <b>other than English</b> (learned from birth, learned or studied later in life)? (MA)
+Choice Yes, No
+
+<sublist>
+If yes, which language(s)? For each language you cited, how much exposure have you had to it ? How proficient do you consider yourself? <br></br><b>Language A</b>
+Textbox
+
+Exposure
+Choicebox I consider myself a native speaker, A lot.  I have lived or worked in an environment dominated by this language for years., A fair amount of exposure. I have lived or worked in an environment dominated by this language for months., Some exposure. I studied this language for more than two years., Very little exposure. I studied this language for less than two years.
+
+Proficiency
+Choicebox I consider myself a native speaker. I speak without any accent., Near native/fluent. Can understand complicated ideas and have complex conversations with native speakers (almost without accent)., Advanced. Can understand almost everything and speak without much difficulty with native speakers even though I have an accent., Intermediate. Can understand the main ideas and talk about daily life., Beginner.  Can understand some sentences and use simple phrases.
+
+<b>Language B</b>
+Textbox
+
+Exposure
+Choicebox I consider myself a native speaker, A lot.  I have lived or worked in an environment dominated by this language for years., A fair amount of exposure. I have lived or worked in an environment dominated by this language for months., Some exposure. I studied this language for more than two years., Very little exposure. I studied this language for less than two years.
+
+Proficiency
+Choicebox I consider myself a native speaker. I speak without any accent., Near native/fluent. Can understand complicated ideas and have complex conversations with native speakers (almost without accent)., Advanced. Can understand almost everything and speak without much difficulty with native speakers even though I have an accent., Intermediate. Can understand the main ideas and talk about daily life., Beginner.  Can understand some sentences and use simple phrases.
+
+<b>Language C</b>
+Textbox
+
+Exposure
+Choicebox I consider myself a native speaker, A lot.  I have lived or worked in an environment dominated by this language for years., A fair amount of exposure. I have lived or worked in an environment dominated by this language for months., Some exposure. I studied this language for more than two years., Very little exposure. I studied this language for less than two years.
+
+Proficiency
+Choicebox I consider myself a native speaker. I speak without any accent., Near native/fluent. Can understand complicated ideas and have complex conversations with native speakers (almost without accent)., Advanced. Can understand almost everything and speak without much difficulty with native speakers even though I have an accent., Intermediate. Can understand the main ideas and talk about daily life., Beginner.  Can understand some sentences and use simple phrases.
+
+<b>Language D</b>
+Textbox
+
+Exposure
+Choicebox I consider myself a native speaker, A lot.  I have lived or worked in an environment dominated by this language for years., A fair amount of exposure. I have lived or worked in an environment dominated by this language for months., Some exposure. I studied this language for more than two years., Very little exposure. I studied this language for less than two years.
+
+Proficiency
+Choicebox I consider myself a native speaker. I speak without any accent., Near native/fluent. Can understand complicated ideas and have complex conversations with native speakers (almost without accent)., Advanced. Can understand almost everything and speak without much difficulty with native speakers even though I have an accent., Intermediate. Can understand the main ideas and talk about daily life., Beginner.  Can understand some sentences and use simple phrases.
+</sublist>
+
+<b>Were you intensively exposed to another language (other than English) early in life? (MA) This includes any languages you may have listed above. </b><br /><br />- Select yes if, before the age of 8, you were exposed to another language for a sustained period (at least one year)<br /><br />- This might include living in a place in which this language was spoken and speaking the language, or having your parents speak in this language to you very often, among other situations<br /><br /> - This would not include brief exposure such as watching movies/television/media or occasional visits from relatives
+Choice Yes, No

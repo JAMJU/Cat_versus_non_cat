@@ -1,0 +1,24 @@
+*lmeds_test_french1
+login
+
+text_page first_page bindSubmitKeyIDList=space
+media_test audio EN2
+
+text_page speed_warning
+text_page remote_experiment_notice
+
+consent demo_consent
+
+text_page presurvey_instructions
+survey presurvey
+
+text_page audio_list_instructions
+media_list audio 1 1 1 [EN1]
+media_choice same_different_instr audio 0.5 1 -1 [[]] [A_for_sure A_almost_sure A_unsure B_unsure B_almost_sure B_for_sure]
+media_list audio 1 1 1 [EN2]
+media_choice same_different_instr audio 0.5 1 -1 [[]] [A_for_sure A_almost_sure A_unsure B_unsure B_almost_sure B_for_sure]
+
+text_page post_survey_instructions
+survey postsurvey
+
+end

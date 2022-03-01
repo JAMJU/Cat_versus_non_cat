@@ -1,0 +1,72 @@
+*pilote_0
+login
+
+text_page first_page bindSubmitKeyIDList=[space]
+
+
+text_page speed_warning bindSubmitKeyIDList=[space]
+text_page remote_experiment_notice bindSubmitKeyIDList=[space]
+
+consent demo_consent
+
+text_page presurvey_instructions bindSubmitKeyIDList=[space]
+survey presurveyfrench
+text_page test_audioset bindSubmitKeyIDList=[space]
+media_test audio caillou
+
+text_page training bindSubmitKeyIDList=[space]
+text_page training_text bindSubmitKeyIDList=[space]
+media_choice same_different_training audio 0 1 1 [[hibou_caillou_caillou2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+text_page you_should_have_second_dog_cat_cat bindSubmitKeyIDList=[space]
+text_page training_text bindSubmitKeyIDList=[space]
+media_choice same_different_training audio 0 1 1 [[caillou_hibou_caillou]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+text_page you_should_have_first_cat_dog_cat bindSubmitKeyIDList=[space]
+text_page training_text bindSubmitKeyIDList=[space]
+media_choice same_different_training audio 0 1 1 [[hibou_caillou_hibou2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+text_page you_should_have_second_dog_cat_dog bindSubmitKeyIDList=[space]
+
+
+text_page audio_list_instructions bindSubmitKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_4]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[EN_500_1]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_9]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[EN_500_2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_1]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_14]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_11]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_12]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_3]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_10]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_500_13]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[hibou_caillou_hibou2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[EN_650_2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_11]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_9]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_10]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[EN_650_1]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_1]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_3]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_13]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_4]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_14]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_12]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_650_2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[hibou_caillou_caillou2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[EN_750_1]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_9]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_14]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[EN_750_2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_11]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_12]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_2]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_4]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_1]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_3]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_13]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+media_choice same_different_instr audio 0 1 1 [[FR_750_10]] [A_for_sure A_almost_sure A_unsure B_for_sure B_almost_sure B_unsure] bindResponseKeyIDList=[f g h c v b] bindPlayKeyIDList=[space]
+text_page post_survey_instructions bindSubmitKeyIDList=[space]
+survey postsurveyfrench
+text_page feedbacks bindSubmitKeyIDList=[space]
+
+end

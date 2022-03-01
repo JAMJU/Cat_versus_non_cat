@@ -1,0 +1,6 @@
+*pilote
+login
+
+text_page text_no_more bindSubmitKeyIDList=[space]
+
+end

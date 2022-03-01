@@ -1,0 +1,47 @@
+
+Vous considérez vous comme francophone natif-ve? (réponse obligatoire - RO)
+Choice Oui, Non
+
+Avez vous appris (depuis votre naissance ou plus tard) ou étudié une ou des langues <b>autre(s) que le français</b> ? (RO)
+Choice Oui, Non
+
+<sublist>
+Si oui quelle(s) langue(s)? Pour chaque langue, précisez à quel point vous y avez été exposé-e, et quelle compétence vous pensez avoir. <br></br><b>Langue A</b>
+Textbox
+
+Exposition
+Choicebox Je me considère comme natif-ve de cette langue., Beaucoup.  J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des années, Plutôt exposé-e. J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des mois., Un peu. J'ai étudié cette langue pendant plus de deux ans., Très peu. J'ai étudié cette langue pendant moins de deux ans.
+
+Compétence
+Choicebox Je me considère natif-ve de cette langue. Je parle sans aucun accent., Presque natif-ve. Je comprends des idées complexes exprimées dans cette langue et je suis capable de tenir des conversations complexes (presque sans accent) avec des locuteurs natifs., Avancé(e). Je comprends presque tout et je parle avec des locuteurs natifs sans trop de difficulté même si j'ai un accent., Intermédiaire. Je comprends les idées principales et je suis capable de parler de la vie quotidienne., Débutant(e). Je comprends certaines phrases et je suis capable d'utiliser des phrases simples.
+
+<b>Langue B</b>
+Textbox
+
+Exposition
+Choicebox Je me considère comme natif-ve de cette langue., Beaucoup.  J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des années, Plutôt exposé-e. J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des mois., Un peu. J'ai étudié cette langue pendant plus de deux ans., Très peu. J'ai étudié cette langue pendant moins de deux ans.
+
+Compétence
+Choicebox Je me considère natif-ve de cette langue. Je parle sans aucun accent., Presque natif-ve. Je comprends des idées complexes exprimées dans cette langue et je suis capable de tenir des conversations complexes (presque sans accent) avec des locuteurs natifs., Avancé(e). Je comprends presque tout et je parle avec des locuteurs natifs sans trop de difficulté même si j'ai un accent., Intermédiaire. Je comprends les idées principales et je suis capable de parler de la vie quotidienne., Débutant(e). Je comprends certaines phrases et je suis capable d'utiliser des phrases simples.
+
+<b>Langue C</b>
+Textbox
+
+Exposition
+Choicebox Je me considère comme natif-ve de cette langue., Beaucoup.  J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des années, Plutôt exposé-e. J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des mois., Un peu. J'ai étudié cette langue pendant plus de deux ans., Très peu. J'ai étudié cette langue pendant moins de deux ans.
+
+Compétence
+Choicebox Je me considère natif-ve de cette langue. Je parle sans aucun accent., Presque natif-ve. Je comprends des idées complexes exprimées dans cette langue et je suis capable de tenir des conversations complexes (presque sans accent) avec des locuteurs natifs., Avancé(e). Je comprends presque tout et je parle avec des locuteurs natifs sans trop de difficulté même si j'ai un accent., Intermédiaire. Je comprends les idées principales et je suis capable de parler de la vie quotidienne., Débutant(e). Je comprends certaines phrases et je suis capable d'utiliser des phrases simples.
+
+<b>Langue D</b>
+Textbox
+
+Exposition
+Choicebox Je me considère comme natif-ve de cette langue., Beaucoup.  J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des années, Plutôt exposé-e. J'ai vécu ou travaillé dans un environnement dominé par cette langue pendant des mois., Un peu. J'ai étudié cette langue pendant plus de deux ans., Très peu. J'ai étudié cette langue pendant moins de deux ans.
+
+Compétence
+Choicebox Je me considère natif-ve de cette langue. Je parle sans aucun accent., Presque natif-ve. Je comprends des idées complexes exprimées dans cette langue et je suis capable de tenir des conversations complexes (presque sans accent) avec des locuteurs natifs., Avancé(e). Je comprends presque tout et je parle avec des locuteurs natifs sans trop de difficulté même si j'ai un accent., Intermédiaire. Je comprends les idées principales et je suis capable de parler de la vie quotidienne., Débutant(e). Je comprends certaines phrases et je suis capable d'utiliser des phrases simples.
+</sublist>
+
+<b> Avez vous été exposé-e de façon intensive à une autre langue que le français dans votre enfance ? (RO) Cette question inclus les langues que vous avez listées au dessus.</b>  <br /><br />- Répondez oui si, avant l'âge de 8 ans, vous avez été exposé à une autre langue que le Français pendant une période assez longue (au moins 1 an) <br /><br /> - Ceci peut inclure le fait d'avoir vécu dans un endroit où cette langue était parlée et parler cette langue, ou le fait qu'un de vos parents vous parle en utilisant cette langue très souvent. <br /><br /> - Ceci n'inclut pas de brèves expositions, comme regarder des films/la télévision... dans cette langue, ou des visites occasionnelles de parents.
+Choice Oui, Non

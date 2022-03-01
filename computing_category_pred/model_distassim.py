@@ -14,7 +14,7 @@ from get_vector_note_vote import get_v1_vectors
 def get_norm_gamma_value(dico_assim, language_indiv, TGT, OTH, lang_stimuli):
     vector_TGT = np.asarray(dico_assim[language_indiv][lang_stimuli + ';' + TGT]['product'])
     vector_OTH = np.asarray(dico_assim[language_indiv][lang_stimuli + ';' + OTH]['product'])
-    gamma = vector_TGT.dot(vector_OTH) / (norm(vector_TGT, 2)* norm(vector_OTH,2))
+    gamma = 1 - vector_TGT.dot(vector_OTH) / (norm(vector_TGT, 2)* norm(vector_OTH,2))
     return gamma
 
 
